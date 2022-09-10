@@ -51,7 +51,7 @@ y así.
 
 > Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
 
-- Para ingresar al espacio de Slack del Prep Course de Henry, por favor ingresa a la [plataforma de admisión](https://www.admissions.soyhenry.com/) donde encontrarás el link de acceso al mismo.
+-   Para ingresar al espacio de Slack del Prep Course de Henry, por favor ingresa a la [plataforma de admisión](https://www.admissions.soyhenry.com/) donde encontrarás el link de acceso al mismo.
 
 ## Editores de Texto
 
@@ -295,4 +295,6 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
 
 ---
 
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01a-primeros-pasos*** de Slack
+#### Si tienes dudas sobre este tema, puedes consultarlas en el canal **_01a-primeros-pasos_** de Slack
+
+<!-- leido  -->
