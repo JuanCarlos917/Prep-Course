@@ -53,11 +53,11 @@ Como muchas de las grandes cosas en esta vida, **Git** comenzó con un poco de d
 
 En 2005, la relación entre la comunidad que desarrollaba el núcleo de Linux y la compañía que desarrollaba BitKeeper se vino abajo, y la herramienta dejó de ser ofrecida gratuitamente. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron durante el uso de BitKeeper. Algunos de los objetivos del nuevo sistema:
 
-- Velocidad
-- Diseño sencillo
-- Fuerte apoyo al desarrollo no lineal (miles de ramas paralelas)
-- Completamente distribuido
-- Capaz de manejar grandes proyectos (como el núcleo de Linux) de manera eficiente (velocidad y tamaño de los datos)
+-   Velocidad
+-   Diseño sencillo
+-   Fuerte apoyo al desarrollo no lineal (miles de ramas paralelas)
+-   Completamente distribuido
+-   Capaz de manejar grandes proyectos (como el núcleo de Linux) de manera eficiente (velocidad y tamaño de los datos)
 
 Desde su nacimiento en 2005, Git ha evolucionado y madurado para ser fácil de usar y aún conservar estas cualidades iniciales. Es tremendamente rápido, muy eficiente a gran escala, y tiene un increíble sistema de ramificación (branching) para desarrollo no lineal.
 
@@ -87,9 +87,9 @@ Vamos a distinguir dos directorios, primero el _directorio de git_: que es donde
 
 Git tiene tres estados principales en los que se pueden encontrar tus archivos:
 
-- **committed**: significa que los datos están almacenados de manera segura en tu base de datos local.
-- **modified**: significa que has modificado el archivo pero todavía no lo has commiteado a tu base de datos.
-- **staged**: significa que has marcado un archivo modificado en su versión actual para que vaya en tu próxima commiteada.
+-   **committed**: significa que los datos están almacenados de manera segura en tu base de datos local.
+-   **modified**: significa que has modificado el archivo pero todavía no lo has commiteado a tu base de datos.
+-   **staged**: significa que has marcado un archivo modificado en su versión actual para que vaya en tu próxima commiteada.
 
 ![Estados](/_src/assets/01-Git/estados.png)
 
@@ -97,9 +97,9 @@ Hay un archivo simple, generalmente contenido en tu directorio de Git, llamado q
 
 Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 
-- Modificas una serie de archivos en tu _directorio de trabajo_.
-- _Stageas_ los archivos, añadiendolos a tu **staging area** o área de preparación.
-- Commiteas o Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación, y almacena esas instantáneas de manera permanente en tu directorio de Git.
+-   Modificas una serie de archivos en tu _directorio de trabajo_.
+-   _Stageas_ los archivos, añadiendolos a tu **staging area** o área de preparación.
+-   Commiteas o Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación, y almacena esas instantáneas de manera permanente en tu directorio de Git.
 
 > Si una versión concreta de un archivo está en el directorio de Git, se considera confirmada (**committed**). Si ha sufrido cambios desde que se obtuvo del repositorio, y ha sido añadida al área de preparación, está preparada (**staged**). Y si ha sufrido cambios desde que se obtuvo del repositorio, pero no se ha preparado (no se incluyó en el área de preparación), está modificada (**modified**).
 
@@ -109,10 +109,10 @@ Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 
 ## Lectura recomendada
 
-- [Git: sitio oficial](https://git-scm.com/)
-- [Github: tutorial oficial](https://try.github.io/levels/1/challenges/1)
-- [Git: tutorial oficial](https://git-scm.com/docs/gittutorial)
-- [Terminal turorial](https://www.davidbaumgold.com/tutorials/command-line/)
+-   [Git: sitio oficial](https://git-scm.com/)
+-   [Github: tutorial oficial](https://try.github.io/levels/1/challenges/1)
+-   [Git: tutorial oficial](https://git-scm.com/docs/gittutorial)
+-   [Terminal turorial](https://www.davidbaumgold.com/tutorials/command-line/)
 
 ---
 
@@ -120,4 +120,6 @@ Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 
 Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/01a-Git/homework)
 
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01b_git*** de Slack
+#### Si tienes dudas sobre este tema, puedes consultarlas en el canal **_01b_git_** de Slack
+
+<!-- Leido 1 -->
