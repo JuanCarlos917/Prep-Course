@@ -122,4 +122,8 @@ Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Pr
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal **_01b_git_** de Slack
 
+<<<<<<< HEAD
 <!-- Leido 1 -->
+=======
+<!-- Leido -->
+>>>>>>> e44c54af31631e84cb4a818b57ff3bac914c56e5
