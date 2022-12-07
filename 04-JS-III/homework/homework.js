@@ -220,7 +220,16 @@ function breakStatement(numero) {
   //devolver: "Se interrumpió la ejecución"
   //Pista: usá el statement 'break'
   // Tu código:
-
+    let arr = [];
+    let suma = numero
+    while (numero <10){
+        suma += 2;
+        if(suma === numero)
+        break;
+        arr.push(suma);
+    }
+    return 'se interrumpió la ejecución'
+    return arr
 }
 
 
